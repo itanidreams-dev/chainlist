@@ -2,7 +2,7 @@ export const data = {
   "name": "iTani Network Chain",
   "chain": "ITANI",
   "rpc": [
-    "https://node.itaninetwork.chain/jsonrpc",
+    "https://itani-network-chain.com/jsonrpc",
     "https://itani-mainnet-1009642477948.us-central1.run.app/jsonrpc",
     "https://itani-network-chain-1009642477948.us-central1.run.app/jsonrpc",
     "https://itani-network-chain-1009642477948.europe-west9.run.app/jsonrpc",
@@ -24,7 +24,7 @@ export const data = {
   "explorers": [
     {
       "name": "iTani Explorer",
-      "url": "https://node.itaninetwork.chain",
+      "url": "https://itani-network-chain.com",
       "standard": "EIP3091"
     }
   ]
